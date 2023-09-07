@@ -31,4 +31,4 @@ Este projeto está sob a licença MIT. Consulte a [LICENÇA](https://github.com/
 
 ---
 
-by Augusto César Oliveira 👐🏼
+by jonatas santos 👐🏼
